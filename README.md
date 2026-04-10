@@ -91,16 +91,15 @@ This took a full day to get right. The hardest parts were:
 None of it is insurmountable but go in knowing it is not a straight line.
 The stability section covers every gotcha we hit.
 
-## Start here
+# Start here
 1. [Pi-hole and Unbound](pihole-unbound.md)
 2. [Gluetun WireGuard Exit Node](exit-node.md)
 3. [Tailscale DNS Configuration](tailscale-dns.md)
-4. [Making it stable](stability.md)
+4. [Making it Stable](stability.md)
 5. [Blocklists](blocklists.md)
 6. [Browser Settings](browser-settings.md)
 7. [Blocking DNS Leaks](dns-leaks.md)
-8. [Split DNS for self hosted services](local-access.md)
-
+8. [Accessing Self Hosted Services Remotely](local-access.md)
 
 ## Contributing
 
