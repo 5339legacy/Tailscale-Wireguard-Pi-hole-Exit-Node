@@ -99,7 +99,7 @@ The stability section covers every gotcha we hit.
 5. [Blocklists](blocklists.md)
 6. [Browser Settings](browser-settings.md)
 7. [Blocking DNS Leaks](dns-leaks.md)
-8. [Split DNS for self hosted services](split-dns.md)
+8. [Split DNS for self hosted services](local-access.md)
 
 
 ## Contributing
