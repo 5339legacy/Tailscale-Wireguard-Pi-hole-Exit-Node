@@ -93,13 +93,6 @@ The stability section covers every gotcha we hit.
 
 ## Start here
 
-1. [Pi-hole and Unbound](docs/pihole-unbound.md)
-2. [Gluetun WireGuard Exit Node](docs/exit-node.md)
-3. [Connecting Tailscale](docs/tailscale.md)
-4. [Making it stable](docs/stability.md)
-5. [Blocklists](docs/blocklists.md)
-6. [Blocking DNS leaks](docs/dns-leaks.md)
-7. [Split DNS for self hosted services](docs/split-dns.md)
 
 ## Contributing
 
